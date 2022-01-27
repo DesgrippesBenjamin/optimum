@@ -1,0 +1,22 @@
+.form {
+    display: table;
+    margin: 3em 3em;
+}
+
+.form-part {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+.label-creat-activity {
+    padding-right: 10px;
+}
+
+.comment {
+    height: 100pX;
+    width: 200px;
+}
